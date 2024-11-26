@@ -16,6 +16,16 @@
 			path = ShapeProtocal;
 			sourceTree = "<group>";
 		};
+		4C3BBE2C2CF65687003C6315 /* Shapes */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+		4C3BBE2F2CF6568E003C6315 /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +42,8 @@
 		4C3BBE0D2CF655CC003C6315 = {
 			isa = PBXGroup;
 			children = (
+				4C3BBE2F2CF6568E003C6315 /* Views */,
+				4C3BBE2C2CF65687003C6315 /* Shapes */,
 				4C3BBE182CF655CC003C6315 /* ShapeProtocal */,
 				4C3BBE172CF655CC003C6315 /* Products */,
 			);
@@ -62,6 +74,8 @@
 			);
 			fileSystemSynchronizedGroups = (
 				4C3BBE182CF655CC003C6315 /* ShapeProtocal */,
+				4C3BBE2C2CF65687003C6315 /* Shapes */,
+				4C3BBE2F2CF6568E003C6315 /* Views */,
 			);
 			name = ShapeProtocal;
 			packageProductDependencies = (
